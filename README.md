@@ -14,6 +14,6 @@ A simple command-line calculator built with Python. This project demonstrates ba
 2. Navigate to the project directory:
    ```bash
    cd python-calculator
-4. Run the program:
+3. Run the program:
  ```bash
    main.py
